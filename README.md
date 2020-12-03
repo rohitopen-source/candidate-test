@@ -3,6 +3,7 @@
 ## to run project
 
 node install express
+
 node install mysql2 sequelize
 
 Api in this project are
